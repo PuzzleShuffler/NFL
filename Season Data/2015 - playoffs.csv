@@ -1,0 +1,12 @@
+Week,Day,Date,Winner/tie,,Loser/tie,,Pts,Pts
+WildCard,Sat,2016-01-09,Kansas City Chiefs,@,Houston Texans,boxscore,30,0
+WildCard,Sat,2016-01-09,Pittsburgh Steelers,@,Cincinnati Bengals,boxscore,18,16
+WildCard,Sun,2016-01-10,Green Bay Packers,@,Washington Redskins,boxscore,35,18
+WildCard,Sun,2016-01-10,Seattle Seahawks,@,Minnesota Vikings,boxscore,10,9
+Division,Sat,2016-01-16,Arizona Cardinals,,Green Bay Packers,boxscore,26,20
+Division,Sat,2016-01-16,New England Patriots,,Kansas City Chiefs,boxscore,27,20
+Division,Sun,2016-01-17,Carolina Panthers,,Seattle Seahawks,boxscore,31,24
+Division,Sun,2016-01-17,Denver Broncos,,Pittsburgh Steelers,boxscore,23,16
+ConfChamp,Sun,2016-01-24,Carolina Panthers,,Arizona Cardinals,boxscore,49,15
+ConfChamp,Sun,2016-01-24,Denver Broncos,,New England Patriots,boxscore,20,18
+SuperBowl,Sun,2016-02-07,Denver Broncos,N,Carolina Panthers,boxscore,24,10

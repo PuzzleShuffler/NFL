@@ -1,0 +1,14 @@
+Week,Day,Date,Winner/tie,,Loser/tie,,Pts,Pts
+WildCard,Sat,2024-01-13,Houston Texans,,Cleveland Browns,boxscore,45,14
+WildCard,Sat,2024-01-13,Kansas City Chiefs,,Miami Dolphins,boxscore,26,7
+WildCard,Sun,2024-01-14,Detroit Lions,,Los Angeles Rams,boxscore,24,23
+WildCard,Sun,2024-01-14,Green Bay Packers,@,Dallas Cowboys,boxscore,48,32
+WildCard,Mon,2024-01-15,Buffalo Bills,,Pittsburgh Steelers,boxscore,31,17
+WildCard,Mon,2024-01-15,Tampa Bay Buccaneers,,Philadelphia Eagles,boxscore,32,9
+Division,Sat,2024-01-20,Baltimore Ravens,,Houston Texans,boxscore,34,10
+Division,Sat,2024-01-20,San Francisco 49ers,,Green Bay Packers,boxscore,24,21
+Division,Sun,2024-01-21,Detroit Lions,,Tampa Bay Buccaneers,boxscore,31,23
+Division,Sun,2024-01-21,Kansas City Chiefs,@,Buffalo Bills,boxscore,27,24
+ConfChamp,Sun,2024-01-28,San Francisco 49ers,,Detroit Lions,boxscore,34,31
+ConfChamp,Sun,2024-01-28,Kansas City Chiefs,@,Baltimore Ravens,boxscore,17,10
+SuperBowl,Sun,2024-02-11,Kansas City Chiefs,N,San Francisco 49ers,boxscore,25,22

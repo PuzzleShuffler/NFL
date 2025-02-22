@@ -1,0 +1,767 @@
+Season,Team,Points For,Points Against,Offense Rank,Defense Rank,Combined Rank,Made Playoffs,Division Winner,Wild Card,Made Divisonal Series,Made Conference Finals,Made Super Bowl,Won Super Bowl
+2000,Miami Dolphins,323,226,16,3,9.5,Yes,Yes,No,Yes,No,No,No
+2000,Indianapolis Colts,429,326,4,15,9.5,Yes,No,Yes,No,No,No,No
+2000,New York Jets,321,321,17,13,15,No,No,No,No,No,No,No
+2000,Buffalo Bills,315,350,20,18,19,No,No,No,No,No,No,No
+2000,New England Patriots,276,338,25,17,21,No,No,No,No,No,No,No
+2000,Tennessee Titans,346,191,13,2,7.5,Yes,Yes,No,Yes,No,No,No
+2000,Baltimore Ravens,333,165,14,1,7.5,Yes,No,Yes,Yes,Yes,Yes,Yes
+2000,Pittsburgh Steelers,321,255,18,6,12,No,No,No,No,No,No,No
+2000,Jacksonville Jaguars,367,327,8,16,12,No,No,No,No,No,No,No
+2000,Cincinnati Bengals,185,359,30,21,25.5,No,No,No,No,No,No,No
+2000,Cleveland Browns,161,419,31,27,29,No,No,No,No,No,No,No
+2000,Oakland Raiders,479,299,3,9,6,Yes,Yes,No,Yes,Yes,No,No
+2000,Denver Broncos,485,369,2,23,12.5,Yes,No,Yes,No,No,No,No
+2000,Kansas City Chiefs,355,354,9,19,14,No,No,No,No,No,No,No
+2000,Seattle Seahawks,320,405,19,25,22,No,No,No,No,No,No,No
+2000,San Diego Chargers,269,440,26,29,27.5,No,No,No,No,No,No,No
+2000,New York Giants,328,246,15,5,10,Yes,Yes,No,Yes,Yes,Yes,No
+2000,Philadelphia Eagles,351,245,12,4,8,Yes,No,Yes,Yes,No,No,No
+2000,Washington Redskins,281,269,24,7,15.5,No,No,No,No,No,No,No
+2000,Dallas Cowboys,294,361,23,22,22.5,No,No,No,No,No,No,No
+2000,Arizona Cardinals,210,443,29,30,29.5,No,No,No,No,No,No,No
+2000,Minnesota Vikings,397,371,5,24,14.5,Yes,Yes,No,Yes,Yes,No,No
+2000,Tampa Bay Buccaneers,388,269,6,8,7,Yes,No,Yes,No,No,No,No
+2000,Green Bay Packers,353,323,11,14,12.5,No,No,No,No,No,No,No
+2000,Detroit Lions,307,307,22,11,16.5,No,No,No,No,No,No,No
+2000,Chicago Bears,216,355,28,20,24,No,No,No,No,No,No,No
+2000,New Orleans Saints,354,305,10,10,10,Yes,Yes,No,Yes,No,No,No
+2000,St. Louis Rams,540,471,1,31,16,Yes,No,Yes,No,No,No,No
+2000,Carolina Panthers,310,310,21,12,16.5,No,No,No,No,No,No,No
+2000,San Francisco 49ers,388,422,7,28,17.5,No,No,No,No,No,No,No
+2000,Atlanta Falcons,252,413,27,26,26.5,No,No,No,No,No,No,No
+2001,New England Patriots,371,272,6,6,6,Yes,Yes,No,Yes,Yes,Yes,Yes
+2001,Miami Dolphins,344,290,8,11,9.5,Yes,No,Yes,No,No,No,No
+2001,New York Jets,308,295,17,12,14.5,Yes,No,Yes,No,No,No,No
+2001,Indianapolis Colts,413,486,2,31,16.5,No,No,No,No,No,No,No
+2001,Buffalo Bills,265,420,27,29,28,No,No,No,No,No,No,No
+2001,Pittsburgh Steelers,352,212,7,3,5,Yes,Yes,No,Yes,Yes,No,No
+2001,Baltimore Ravens,303,265,18,4,11,Yes,No,Yes,Yes,No,No,No
+2001,Cleveland Browns,285,319,25,15,20,No,No,No,No,No,No,No
+2001,Tennessee Titans,336,388,12,25,18.5,No,No,No,No,No,No,No
+2001,Jacksonville Jaguars,294,286,21,10,15.5,No,No,No,No,No,No,No
+2001,Cincinnati Bengals,226,309,31,14,22.5,No,No,No,No,No,No,No
+2001,Oakland Raiders,399,327,4,19,11.5,Yes,Yes,No,Yes,No,No,No
+2001,Seattle Seahawks,301,324,19,18,18.5,No,No,No,No,No,No,No
+2001,Denver Broncos,340,339,10,21,15.5,No,No,No,No,No,No,No
+2001,Kansas City Chiefs,320,344,16,23,19.5,No,No,No,No,No,No,No
+2001,San Diego Chargers,332,321,14,16,15,No,No,No,No,No,No,No
+2001,Philadelphia Eagles,343,208,9,2,5.5,Yes,Yes,No,Yes,Yes,No,No
+2001,Washington Redskins,256,303,28,13,20.5,No,No,No,No,No,No,No
+2001,New York Giants,294,321,22,17,19.5,No,No,No,No,No,No,No
+2001,Arizona Cardinals,295,343,20,22,21,No,No,No,No,No,No,No
+2001,Dallas Cowboys,246,338,30,20,25,No,No,No,No,No,No,No
+2001,Chicago Bears,338,203,11,1,6,Yes,Yes,No,Yes,No,No,No
+2001,Green Bay Packers,390,266,5,5,5,Yes,No,Yes,Yes,No,No,No
+2001,Tampa Bay Buccaneers,324,280,15,8,11.5,Yes,No,Yes,No,No,No,No
+2001,Minnesota Vikings,290,390,24,26,25,No,No,No,No,No,No,No
+2001,Detroit Lions,270,424,26,30,28,No,No,No,No,No,No,No
+2001,St. Louis Rams,503,273,1,7,4,Yes,Yes,No,Yes,Yes,Yes,No
+2001,San Francisco 49ers,409,282,3,9,6,Yes,No,Yes,No,No,No,No
+2001,New Orleans Saints,333,409,13,27,20,No,No,No,No,No,No,No
+2001,Atlanta Falcons,291,377,23,24,23.5,No,No,No,No,No,No,No
+2001,Carolina Panthers,253,410,29,28,28.5,No,No,No,No,No,No,No
+2002,New York Jets,359,336,15,14,14.5,Yes,Yes,No,Yes,No,No,No
+2002,New England Patriots,381,346,10,17,13.5,No,No,No,No,No,No,No
+2002,Miami Dolphins,378,301,12,4,8,No,No,No,No,No,No,No
+2002,Buffalo Bills,379,397,11,27,19,No,No,No,No,No,No,No
+2002,Pittsburgh Steelers,390,345,8,16,12,Yes,Yes,No,Yes,No,No,No
+2002,Cleveland Browns,344,320,19,10,14.5,Yes,No,Yes,No,No,No,No
+2002,Baltimore Ravens,316,354,23,19,21,No,No,No,No,No,No,No
+2002,Cincinnati Bengals,279,456,28,32,30,No,No,No,No,No,No,No
+2002,Tennessee Titans,367,324,13,11,12,Yes,Yes,No,Yes,Yes,No,No
+2002,Indianapolis Colts,349,313,17,7,12,Yes,No,Yes,No,No,No,No
+2002,Jacksonville Jaguars,328,315,21,9,15,No,No,No,No,No,No,No
+2002,Houston Texans,213,356,32,20,26,No,No,No,No,No,No,No
+2002,Oakland Raiders,450,304,2,6,4,Yes,Yes,No,Yes,Yes,Yes,No
+2002,Denver Broncos,392,344,7,15,11,No,No,No,No,No,No,No
+2002,San Diego Chargers,333,367,20,22,21,No,No,No,No,No,No,No
+2002,Kansas City Chiefs,467,399,1,28,14.5,No,No,No,No,No,No,No
+2002,Philadelphia Eagles,415,241,4,2,3,Yes,Yes,No,Yes,Yes,No,No
+2002,New York Giants,320,279,22,3,12.5,Yes,No,Yes,No,No,No,No
+2002,Washington Redskins,307,365,25,21,23,No,No,No,No,No,No,No
+2002,Dallas Cowboys,217,329,31,13,22,No,No,No,No,No,No,No
+2002,Green Bay Packers,398,328,6,12,9,Yes,Yes,No,No,No,No,No
+2002,Minnesota Vikings,390,442,9,30,19.5,No,No,No,No,No,No,No
+2002,Chicago Bears,281,379,27,25,26,No,No,No,No,No,No,No
+2002,Detroit Lions,306,451,26,31,28.5,No,No,No,No,No,No,No
+2002,Tampa Bay Buccaneers,346,196,18,1,9.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2002,Atlanta Falcons,402,314,5,8,6.5,Yes,No,Yes,Yes,No,No,No
+2002,New Orleans Saints,432,388,3,26,14.5,No,No,No,No,No,No,No
+2002,Carolina Panthers,258,302,30,5,17.5,No,No,No,No,No,No,No
+2002,San Francisco 49ers,367,351,14,18,16,Yes,Yes,No,Yes,No,No,No
+2002,St. Louis Rams,316,369,24,23,23.5,No,No,No,No,No,No,No
+2002,Seattle Seahawks,355,369,16,24,20,No,No,No,No,No,No,No
+2002,Arizona Cardinals,262,417,29,29,29,No,No,No,No,No,No,No
+2003,New England Patriots,348,238,12,1,6.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2003,Miami Dolphins,311,261,17,3,10,No,No,No,No,No,No,No
+2003,Buffalo Bills,243,279,30,5,17.5,No,No,No,No,No,No,No
+2003,New York Jets,283,299,23,8,15.5,No,No,No,No,No,No,No
+2003,Baltimore Ravens,391,281,8,6,7,Yes,Yes,No,No,No,No,No
+2003,Cincinnati Bengals,346,384,13,28,20.5,No,No,No,No,No,No,No
+2003,Pittsburgh Steelers,300,327,19,15,17,No,No,No,No,No,No,No
+2003,Cleveland Browns,254,322,29,12,20.5,No,No,No,No,No,No,No
+2003,Indianapolis Colts,447,336,2,20,11,Yes,Yes,No,Yes,Yes,No,No
+2003,Tennessee Titans,435,324,5,13,9,Yes,No,Yes,Yes,No,No,No
+2003,Jacksonville Jaguars,276,331,25,18,21.5,No,No,No,No,No,No,No
+2003,Houston Texans,255,380,28,27,27.5,No,No,No,No,No,No,No
+2003,Kansas City Chiefs,484,332,1,19,10,Yes,Yes,No,Yes,No,No,No
+2003,Denver Broncos,381,301,10,9,9.5,Yes,No,Yes,No,No,No,No
+2003,Oakland Raiders,270,379,26,25,25.5,No,No,No,No,No,No,No
+2003,San Diego Chargers,313,441,16,31,23.5,No,No,No,No,No,No,No
+2003,Philadelphia Eagles,374,287,11,7,9,Yes,Yes,No,Yes,Yes,No,No
+2003,Dallas Cowboys,289,260,21,2,11.5,Yes,No,Yes,No,No,No,No
+2003,Washington Redskins,287,372,22,24,23,No,No,No,No,No,No,No
+2003,New York Giants,243,387,31,29,30,No,No,No,No,No,No,No
+2003,Green Bay Packers,442,307,4,11,7.5,Yes,Yes,No,Yes,No,No,No
+2003,Minnesota Vikings,416,353,6,23,14.5,No,No,No,No,No,No,No
+2003,Chicago Bears,283,346,24,22,23,No,No,No,No,No,No,No
+2003,Detroit Lions,270,379,27,26,26.5,No,No,No,No,No,No,No
+2003,Carolina Panthers,325,304,15,10,12.5,Yes,Yes,No,Yes,Yes,Yes,No
+2003,New Orleans Saints,340,326,14,14,14,No,No,No,No,No,No,No
+2003,Tampa Bay Buccaneers,301,264,18,4,11,No,No,No,No,No,No,No
+2003,Atlanta Falcons,299,422,20,30,25,No,No,No,No,No,No,No
+2003,St. Louis Rams,447,328,3,17,10,Yes,Yes,No,Yes,No,No,No
+2003,Seattle Seahawks,404,327,7,16,11.5,Yes,No,Yes,No,No,No,No
+2003,San Francisco 49ers,384,337,9,21,15,No,No,No,No,No,No,No
+2003,Arizona Cardinals,225,452,32,32,32,No,No,No,No,No,No,No
+2004,New England Patriots,437,260,4,2,3,Yes,Yes,No,Yes,Yes,Yes,Yes
+2004,New York Jets,333,261,17,4,10.5,Yes,No,Yes,Yes,No,No,No
+2004,Buffalo Bills,395,284,7,8,7.5,No,No,No,No,No,No,No
+2004,Miami Dolphins,275,354,28,20,24,No,No,No,No,No,No,No
+2004,Pittsburgh Steelers,372,251,11,1,6,Yes,Yes,No,Yes,Yes,No,No
+2004,Baltimore Ravens,317,268,20,6,13,No,No,No,No,No,No,No
+2004,Cincinnati Bengals,374,372,10,21,15.5,No,No,No,No,No,No,No
+2004,Cleveland Browns,276,390,27,24,25.5,No,No,No,No,No,No,No
+2004,Indianapolis Colts,522,351,1,19,10,Yes,Yes,No,Yes,No,No,No
+2004,Jacksonville Jaguars,261,280,29,7,18,No,No,No,No,No,No,No
+2004,Houston Texans,309,339,21,15,18,No,No,No,No,No,No,No
+2004,Tennessee Titans,344,439,15,30,22.5,No,No,No,No,No,No,No
+2004,San Diego Chargers,446,313,3,11,7,Yes,Yes,No,No,No,No,No
+2004,Denver Broncos,381,304,9,9,9,Yes,No,Yes,No,No,No,No
+2004,Kansas City Chiefs,483,435,2,29,15.5,No,No,No,No,No,No,No
+2004,Oakland Raiders,320,442,18,31,24.5,No,No,No,No,No,No,No
+2004,Philadelphia Eagles,386,260,8,3,5.5,Yes,Yes,No,Yes,Yes,Yes,No
+2004,New York Giants,303,347,22,17,19.5,No,No,No,No,No,No,No
+2004,Dallas Cowboys,293,405,25,27,26,No,No,No,No,No,No,No
+2004,Washington Redskins,240,265,31,5,18,No,No,No,No,No,No,No
+2004,Green Bay Packers,424,380,5,23,14,Yes,Yes,No,No,No,No,No
+2004,Minnesota Vikings,405,395,6,26,16,Yes,No,Yes,Yes,No,No,No
+2004,Detroit Lions,296,350,24,18,21,No,No,No,No,No,No,No
+2004,Chicago Bears,231,331,32,13,22.5,No,No,No,No,No,No,No
+2004,Atlanta Falcons,340,337,16,14,15,Yes,Yes,No,Yes,Yes,No,No
+2004,New Orleans Saints,348,405,14,28,21,No,No,No,No,No,No,No
+2004,Carolina Panthers,355,339,13,16,14.5,No,No,No,No,No,No,No
+2004,Tampa Bay Buccaneers,301,304,23,10,16.5,No,No,No,No,No,No,No
+2004,Seattle Seahawks,371,373,12,22,17,Yes,Yes,No,No,No,No,No
+2004,St. Louis Rams,319,392,19,25,22,Yes,No,Yes,Yes,No,No,No
+2004,Arizona Cardinals,284,322,26,12,19,No,No,No,No,No,No,No
+2004,San Francisco 49ers,259,452,30,32,31,No,No,No,No,No,No,No
+2005,New England Patriots,379,338,10,17,13.5,Yes,Yes,No,Yes,No,No,No
+2005,Miami Dolphins,318,317,16,15,15.5,No,No,No,No,No,No,No
+2005,Buffalo Bills,271,367,24,24,24,No,No,No,No,No,No,No
+2005,New York Jets,240,355,29,23,26,No,No,No,No,No,No,No
+2005,Cincinnati Bengals,421,350,4,22,13,Yes,Yes,No,No,No,No,No
+2005,Pittsburgh Steelers,389,258,9,3,6,Yes,No,Yes,Yes,Yes,Yes,Yes
+2005,Baltimore Ravens,265,299,25,10,17.5,No,No,No,No,No,No,No
+2005,Cleveland Browns,232,301,32,11,21.5,No,No,No,No,No,No,No
+2005,Indianapolis Colts,439,247,2,2,2,Yes,Yes,No,Yes,No,No,No
+2005,Jacksonville Jaguars,361,269,12,6,9,Yes,No,Yes,No,No,No,No
+2005,Tennessee Titans,299,421,21,29,25,No,No,No,No,No,No,No
+2005,Houston Texans,260,431,26,32,29,No,No,No,No,No,No,No
+2005,Denver Broncos,395,258,7,4,5.5,Yes,Yes,No,Yes,Yes,No,No
+2005,Kansas City Chiefs,403,325,6,16,11,No,No,No,No,No,No,No
+2005,San Diego Chargers,418,312,5,13,9,No,No,No,No,No,No,No
+2005,Oakland Raiders,290,383,23,25,24,No,No,No,No,No,No,No
+2005,New York Giants,422,314,3,14,8.5,Yes,Yes,No,No,No,No,No
+2005,Washington Redskins,359,293,13,9,11,Yes,No,Yes,Yes,No,No,No
+2005,Dallas Cowboys,325,308,15,12,13.5,No,No,No,No,No,No,No
+2005,Philadelphia Eagles,310,388,18,27,22.5,No,No,No,No,No,No,No
+2005,Chicago Bears,260,202,27,1,14,Yes,Yes,No,Yes,No,No,No
+2005,Minnesota Vikings,306,344,19,19,19,No,No,No,No,No,No,No
+2005,Detroit Lions,254,345,28,21,24.5,No,No,No,No,No,No,No
+2005,Green Bay Packers,298,344,22,20,21,No,No,No,No,No,No,No
+2005,Tampa Bay Buccaneers,300,274,20,8,14,Yes,Yes,No,No,No,No,No
+2005,Carolina Panthers,391,259,8,5,6.5,Yes,No,Yes,Yes,Yes,No,No
+2005,Atlanta Falcons,351,341,14,18,16,No,No,No,No,No,No,No
+2005,New Orleans Saints,235,398,31,28,29.5,No,No,No,No,No,No,No
+2005,Seattle Seahawks,452,271,1,7,4,Yes,Yes,No,Yes,Yes,Yes,No
+2005,St. Louis Rams,363,429,11,31,21,No,No,No,No,No,No,No
+2005,Arizona Cardinals,311,387,17,26,21.5,No,No,No,No,No,No,No
+2005,San Francisco 49ers,239,428,30,30,30,No,No,No,No,No,No,No
+2006,New England Patriots,385,237,7,2,4.5,Yes,Yes,No,Yes,Yes,No,No
+2006,New York Jets,316,295,18,6,12,Yes,No,Yes,No,No,No,No
+2006,Buffalo Bills,300,311,23,10,16.5,No,No,No,No,No,No,No
+2006,Miami Dolphins,260,283,29,5,17,No,No,No,No,No,No,No
+2006,Baltimore Ravens,353,201,12,1,6.5,Yes,Yes,No,Yes,No,No,No
+2006,Cincinnati Bengals,373,331,8,17,12.5,No,No,No,No,No,No,No
+2006,Pittsburgh Steelers,353,315,13,11,12,No,No,No,No,No,No,No
+2006,Cleveland Browns,238,356,30,22,26,No,No,No,No,No,No,No
+2006,Indianapolis Colts,427,360,2,23,12.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2006,Tennessee Titans,324,400,16,31,23.5,No,No,No,No,No,No,No
+2006,Jacksonville Jaguars,371,274,9,4,6.5,No,No,No,No,No,No,No
+2006,Houston Texans,267,366,28,25,26.5,No,No,No,No,No,No,No
+2006,San Diego Chargers,492,303,1,7,4,Yes,Yes,No,Yes,No,No,No
+2006,Kansas City Chiefs,331,315,15,12,13.5,Yes,No,Yes,No,No,No,No
+2006,Denver Broncos,319,305,17,8,12.5,No,No,No,No,No,No,No
+2006,Oakland Raiders,168,332,32,18,25,No,No,No,No,No,No,No
+2006,Philadelphia Eagles,398,328,6,15,10.5,Yes,Yes,No,Yes,No,No,No
+2006,Dallas Cowboys,425,350,4,20,12,Yes,No,Yes,No,No,No,No
+2006,New York Giants,355,362,11,24,17.5,Yes,No,Yes,No,No,No,No
+2006,Washington Redskins,307,376,20,27,23.5,No,No,No,No,No,No,No
+2006,Chicago Bears,427,255,3,3,3,Yes,Yes,No,Yes,Yes,Yes,No
+2006,Green Bay Packers,301,366,22,26,24,No,No,No,No,No,No,No
+2006,Minnesota Vikings,282,327,26,14,20,No,No,No,No,No,No,No
+2006,Detroit Lions,305,398,21,30,25.5,No,No,No,No,No,No,No
+2006,New Orleans Saints,413,322,5,13,9,Yes,Yes,No,Yes,Yes,No,No
+2006,Carolina Panthers,270,305,27,9,18,No,No,No,No,No,No,No
+2006,Atlanta Falcons,292,328,25,16,20.5,No,No,No,No,No,No,No
+2006,Tampa Bay Buccaneers,211,353,31,21,26,No,No,No,No,No,No,No
+2006,Seattle Seahawks,335,341,14,19,16.5,Yes,Yes,No,Yes,No,No,No
+2006,St. Louis Rams,367,381,10,28,19,No,No,No,No,No,No,No
+2006,San Francisco 49ers,298,412,24,32,28,No,No,No,No,No,No,No
+2006,Arizona Cardinals,314,389,19,29,24,No,No,No,No,No,No,No
+2007,New England Patriots,589,274,1,4,2.5,Yes,Yes,No,Yes,Yes,Yes,No
+2007,Buffalo Bills,252,354,30,18,24,No,No,No,No,No,No,No
+2007,New York Jets,268,355,25,19,22,No,No,No,No,No,No,No
+2007,Miami Dolphins,267,437,26,30,28,No,No,No,No,No,No,No
+2007,Pittsburgh Steelers,393,269,9,2,5.5,Yes,Yes,No,No,No,No,No
+2007,Cleveland Browns,402,382,8,21,14.5,No,No,No,No,No,No,No
+2007,Cincinnati Bengals,380,385,11,24,17.5,No,No,No,No,No,No,No
+2007,Baltimore Ravens,275,384,24,22,23,No,No,No,No,No,No,No
+2007,Indianapolis Colts,450,262,3,1,2,Yes,Yes,No,Yes,No,No,No
+2007,Jacksonville Jaguars,411,304,6,10,8,Yes,No,Yes,Yes,No,No,No
+2007,Tennessee Titans,301,297,22,8,15,Yes,No,Yes,No,No,No,No
+2007,Houston Texans,379,384,12,23,17.5,No,No,No,No,No,No,No
+2007,San Diego Chargers,412,284,5,5,5,Yes,Yes,No,Yes,Yes,No,No
+2007,Denver Broncos,320,409,21,28,24.5,No,No,No,No,No,No,No
+2007,Kansas City Chiefs,226,335,31,14,22.5,No,No,No,No,No,No,No
+2007,Oakland Raiders,283,398,23,26,24.5,No,No,No,No,No,No,No
+2007,Dallas Cowboys,455,325,2,13,7.5,Yes,Yes,No,Yes,No,No,No
+2007,New York Giants,373,351,14,17,15.5,Yes,No,Yes,Yes,Yes,Yes,Yes
+2007,Washington Redskins,334,310,18,11,14.5,Yes,No,Yes,No,No,No,No
+2007,Philadelphia Eagles,336,300,17,9,13,No,No,No,No,No,No,No
+2007,Green Bay Packers,435,291,4,6,5,Yes,Yes,No,Yes,Yes,No,No
+2007,Minnesota Vikings,365,311,15,12,13.5,No,No,No,No,No,No,No
+2007,Detroit Lions,346,444,16,32,24,No,No,No,No,No,No,No
+2007,Chicago Bears,334,348,19,16,17.5,No,No,No,No,No,No,No
+2007,Tampa Bay Buccaneers,334,270,20,3,11.5,Yes,Yes,No,No,No,No,No
+2007,Carolina Panthers,267,347,27,15,21,No,No,No,No,No,No,No
+2007,New Orleans Saints,379,388,13,25,19,No,No,No,No,No,No,No
+2007,Atlanta Falcons,259,414,29,29,29,No,No,No,No,No,No,No
+2007,Seattle Seahawks,393,291,10,7,8.5,Yes,Yes,No,Yes,No,No,No
+2007,Arizona Cardinals,404,399,7,27,17,No,No,No,No,No,No,No
+2007,San Francisco 49ers,219,364,32,20,26,No,No,No,No,No,No,No
+2007,St. Louis Rams,263,438,28,31,29.5,No,No,No,No,No,No,No
+2008,Miami Dolphins,345,317,21,9,15,Yes,Yes,No,No,No,No,No
+2008,New England Patriots,410,309,8,8,8,No,No,No,No,No,No,No
+2008,New York Jets,405,356,9,18,13.5,No,No,No,No,No,No,No
+2008,Buffalo Bills,336,342,23,14,18.5,No,No,No,No,No,No,No
+2008,Pittsburgh Steelers,347,223,20,1,10.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2008,Baltimore Ravens,385,244,11,3,7,Yes,No,Yes,Yes,Yes,No,No
+2008,Cincinnati Bengals,204,364,32,19,25.5,No,No,No,No,No,No,No
+2008,Cleveland Browns,232,350,30,16,23,No,No,No,No,No,No,No
+2008,Tennessee Titans,375,234,14,2,8,Yes,Yes,No,Yes,No,No,No
+2008,Indianapolis Colts,377,298,13,7,10,Yes,No,Yes,No,No,No,No
+2008,Houston Texans,366,394,17,27,22,No,No,No,No,No,No,No
+2008,Jacksonville Jaguars,302,367,24,21,22.5,No,No,No,No,No,No,No
+2008,San Diego Chargers,439,347,2,15,8.5,Yes,Yes,No,Yes,No,No,No
+2008,Denver Broncos,370,448,16,30,23,No,No,No,No,No,No,No
+2008,Oakland Raiders,263,388,29,24,26.5,No,No,No,No,No,No,No
+2008,Kansas City Chiefs,291,440,26,29,27.5,No,No,No,No,No,No,No
+2008,New York Giants,427,294,3,5,4,Yes,Yes,No,Yes,No,No,No
+2008,Philadelphia Eagles,416,289,6,4,5,Yes,No,Yes,Yes,Yes,No,No
+2008,Dallas Cowboys,362,365,18,20,19,No,No,No,No,No,No,No
+2008,Washington Redskins,265,296,28,6,17,No,No,No,No,No,No,No
+2008,Minnesota Vikings,379,333,12,13,12.5,Yes,Yes,No,No,No,No,No
+2008,Chicago Bears,375,350,15,17,16,No,No,No,No,No,No,No
+2008,Green Bay Packers,419,380,5,22,13.5,No,No,No,No,No,No,No
+2008,Detroit Lions,268,517,27,32,29.5,No,No,No,No,No,No,No
+2008,Carolina Panthers,414,329,7,12,9.5,Yes,Yes,No,Yes,No,No,No
+2008,Atlanta Falcons,391,325,10,11,10.5,Yes,No,Yes,No,No,No,No
+2008,Tampa Bay Buccaneers,361,323,19,10,14.5,No,No,No,No,No,No,No
+2008,New Orleans Saints,463,393,1,26,13.5,No,No,No,No,No,No,No
+2008,Arizona Cardinals,427,426,4,28,16,Yes,Yes,No,Yes,Yes,Yes,No
+2008,San Francisco 49ers,339,381,22,23,22.5,No,No,No,No,No,No,No
+2008,Seattle Seahawks,294,392,25,25,25,No,No,No,No,No,No,No
+2008,St. Louis Rams,232,465,31,31,31,No,No,No,No,No,No,No
+2009,New England Patriots,427,285,6,5,5.5,Yes,Yes,No,No,No,No,No
+2009,New York Jets,348,236,17,1,9,Yes,No,Yes,Yes,Yes,No,No
+2009,Miami Dolphins,360,390,15,25,20,No,No,No,No,No,No,No
+2009,Buffalo Bills,258,326,28,16,22,No,No,No,No,No,No,No
+2009,Cincinnati Bengals,305,291,22,6,14,Yes,Yes,No,No,No,No,No
+2009,Baltimore Ravens,391,261,9,3,6,Yes,No,Yes,Yes,No,No,No
+2009,Pittsburgh Steelers,368,324,12,12,12,No,No,No,No,No,No,No
+2009,Cleveland Browns,245,375,29,21,25,No,No,No,No,No,No,No
+2009,Indianapolis Colts,416,307,7,8,7.5,Yes,Yes,No,Yes,Yes,Yes,No
+2009,Houston Texans,388,333,10,17,13.5,No,No,No,No,No,No,No
+2009,Tennessee Titans,354,402,16,28,22,No,No,No,No,No,No,No
+2009,Jacksonville Jaguars,290,380,24,24,24,No,No,No,No,No,No,No
+2009,San Diego Chargers,454,320,4,11,7.5,Yes,Yes,No,Yes,No,No,No
+2009,Denver Broncos,326,324,20,13,16.5,No,No,No,No,No,No,No
+2009,Oakland Raiders,197,379,31,23,27,No,No,No,No,No,No,No
+2009,Kansas City Chiefs,294,424,23,29,26,No,No,No,No,No,No,No
+2009,Dallas Cowboys,361,250,14,2,8,Yes,Yes,No,Yes,No,No,No
+2009,Philadelphia Eagles,429,337,5,19,12,Yes,No,Yes,No,No,No,No
+2009,New York Giants,402,427,8,30,19,No,No,No,No,No,No,No
+2009,Washington Redskins,266,336,26,18,22,No,No,No,No,No,No,No
+2009,Minnesota Vikings,470,312,2,10,6,Yes,Yes,No,Yes,Yes,No,No
+2009,Green Bay Packers,461,297,3,7,5,Yes,No,Yes,No,No,No,No
+2009,Chicago Bears,327,375,19,22,20.5,No,No,No,No,No,No,No
+2009,Detroit Lions,262,494,27,32,29.5,No,No,No,No,No,No,No
+2009,New Orleans Saints,510,341,1,20,10.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2009,Atlanta Falcons,363,325,13,14,13.5,No,No,No,No,No,No,No
+2009,Carolina Panthers,315,308,21,9,15,No,No,No,No,No,No,No
+2009,Tampa Bay Buccaneers,244,400,30,27,28.5,No,No,No,No,No,No,No
+2009,Arizona Cardinals,375,325,11,15,13,Yes,Yes,No,Yes,No,No,No
+2009,San Francisco 49ers,330,281,18,4,11,No,No,No,No,No,No,No
+2009,Seattle Seahawks,280,390,25,26,25.5,No,No,No,No,No,No,No
+2009,St. Louis Rams,175,436,32,31,31.5,No,No,No,No,No,No,No
+2010,New England Patriots,518,313,1,8,4.5,Yes,Yes,No,Yes,No,No,No
+2010,New York Jets,367,304,13,6,9.5,Yes,No,Yes,Yes,Yes,No,No
+2010,Miami Dolphins,273,333,30,14,22,No,No,No,No,No,No,No
+2010,Buffalo Bills,283,425,28,28,28,No,No,No,No,No,No,No
+2010,Pittsburgh Steelers,375,232,12,1,6.5,Yes,Yes,No,Yes,Yes,Yes,No
+2010,Baltimore Ravens,357,270,16,3,9.5,Yes,No,Yes,Yes,No,No,No
+2010,Cleveland Browns,271,332,31,13,22,No,No,No,No,No,No,No
+2010,Cincinnati Bengals,322,395,22,24,23,No,No,No,No,No,No,No
+2010,Indianapolis Colts,435,388,4,23,13.5,Yes,Yes,No,No,No,No,No
+2010,Jacksonville Jaguars,353,419,18,27,22.5,No,No,No,No,No,No,No
+2010,Houston Texans,390,427,9,29,19,No,No,No,No,No,No,No
+2010,Tennessee Titans,356,339,17,15,16,No,No,No,No,No,No,No
+2010,Kansas City Chiefs,366,326,14,11,12.5,Yes,Yes,No,No,No,No,No
+2010,San Diego Chargers,441,322,2,10,6,No,No,No,No,No,No,No
+2010,Oakland Raiders,410,371,6,20,13,No,No,No,No,No,No,No
+2010,Denver Broncos,344,471,19,32,25.5,No,No,No,No,No,No,No
+2010,Philadelphia Eagles,439,377,3,21,12,Yes,Yes,No,No,No,No,No
+2010,New York Giants,394,347,7,17,12,No,No,No,No,No,No,No
+2010,Dallas Cowboys,394,436,8,31,19.5,No,No,No,No,No,No,No
+2010,Washington Redskins,302,377,25,22,23.5,No,No,No,No,No,No,No
+2010,Chicago Bears,334,286,21,4,12.5,Yes,Yes,No,Yes,Yes,No,No
+2010,Green Bay Packers,388,240,10,2,6,Yes,No,Yes,Yes,Yes,Yes,Yes
+2010,Detroit Lions,362,369,15,19,17,No,No,No,No,No,No,No
+2010,Minnesota Vikings,281,348,29,18,23.5,No,No,No,No,No,No,No
+2010,Atlanta Falcons,414,288,5,5,5,Yes,Yes,No,Yes,No,No,No
+2010,New Orleans Saints,384,307,11,7,9,Yes,No,Yes,No,No,No,No
+2010,Tampa Bay Buccaneers,341,318,20,9,14.5,No,No,No,No,No,No,No
+2010,Carolina Panthers,196,408,32,26,29,No,No,No,No,No,No,No
+2010,Seattle Seahawks,310,407,23,25,24,Yes,Yes,No,Yes,No,No,No
+2010,St. Louis Rams,289,328,26,12,19,No,No,No,No,No,No,No
+2010,San Francisco 49ers,305,346,24,16,20,No,No,No,No,No,No,No
+2010,Arizona Cardinals,289,434,27,30,28.5,No,No,No,No,No,No,No
+2011,New England Patriots,513,342,3,15,9,Yes,Yes,No,Yes,Yes,Yes,No
+2011,New York Jets,377,363,13,20,16.5,No,No,No,No,No,No,No
+2011,Miami Dolphins,329,313,20,6,13,No,No,No,No,No,No,No
+2011,Buffalo Bills,372,434,14,30,22,No,No,No,No,No,No,No
+2011,Baltimore Ravens,378,266,12,3,7.5,Yes,Yes,No,Yes,Yes,No,No
+2011,Pittsburgh Steelers,325,227,21,1,11,Yes,No,Yes,No,No,No,No
+2011,Cincinnati Bengals,344,323,18,9,13.5,Yes,No,Yes,No,No,No,No
+2011,Cleveland Browns,218,307,30,5,17.5,No,No,No,No,No,No,No
+2011,Houston Texans,381,278,10,4,7,Yes,Yes,No,Yes,No,No,No
+2011,Tennessee Titans,325,317,22,8,15,No,No,No,No,No,No,No
+2011,Jacksonville Jaguars,243,329,28,11,19.5,No,No,No,No,No,No,No
+2011,Indianapolis Colts,243,430,29,28,28.5,No,No,No,No,No,No,No
+2011,Denver Broncos,309,390,25,24,24.5,Yes,Yes,No,Yes,No,No,No
+2011,San Diego Chargers,406,377,5,22,13.5,No,No,No,No,No,No,No
+2011,Oakland Raiders,359,433,16,29,22.5,No,No,No,No,No,No,No
+2011,Kansas City Chiefs,212,338,31,12,21.5,No,No,No,No,No,No,No
+2011,New York Giants,394,400,9,25,17,Yes,Yes,No,Yes,Yes,Yes,Yes
+2011,Philadelphia Eagles,396,328,8,10,9,No,No,No,No,No,No,No
+2011,Dallas Cowboys,369,347,15,16,15.5,No,No,No,No,No,No,No
+2011,Washington Redskins,288,367,26,21,23.5,No,No,No,No,No,No,No
+2011,Green Bay Packers,560,359,1,19,10,Yes,Yes,No,Yes,No,No,No
+2011,Detroit Lions,474,387,4,23,13.5,Yes,No,Yes,No,No,No,No
+2011,Chicago Bears,353,341,17,14,15.5,No,No,No,No,No,No,No
+2011,Minnesota Vikings,340,449,19,31,25,No,No,No,No,No,No,No
+2011,New Orleans Saints,547,339,2,13,7.5,Yes,Yes,No,Yes,No,No,No
+2011,Atlanta Falcons,402,350,7,18,12.5,Yes,No,Yes,No,No,No,No
+2011,Carolina Panthers,406,429,6,27,16.5,No,No,No,No,No,No,No
+2011,Tampa Bay Buccaneers,287,494,27,32,29.5,No,No,No,No,No,No,No
+2011,San Francisco 49ers,380,229,11,2,6.5,Yes,Yes,No,Yes,Yes,No,No
+2011,Arizona Cardinals,312,348,24,17,20.5,No,No,No,No,No,No,No
+2011,Seattle Seahawks,321,315,23,7,15,No,No,No,No,No,No,No
+2011,St. Louis Rams,193,407,32,26,29,No,No,No,No,No,No,No
+2012,New England Patriots,557,331,1,9,5,Yes,Yes,No,Yes,Yes,No,No
+2012,Miami Dolphins,288,317,27,7,17,No,No,No,No,No,No,No
+2012,New York Jets,281,375,28,20,24,No,No,No,No,No,No,No
+2012,Buffalo Bills,344,435,21,26,23.5,No,No,No,No,No,No,No
+2012,Baltimore Ravens,398,344,10,12,11,Yes,Yes,No,Yes,Yes,Yes,Yes
+2012,Cincinnati Bengals,391,320,12,8,10,Yes,No,Yes,No,No,No,No
+2012,Pittsburgh Steelers,336,314,22,6,14,No,No,No,No,No,No,No
+2012,Cleveland Browns,302,368,24,19,21.5,No,No,No,No,No,No,No
+2012,Houston Texans,416,331,8,10,9,Yes,Yes,No,Yes,No,No,No
+2012,Indianapolis Colts,357,387,18,21,19.5,Yes,No,Yes,No,No,No,No
+2012,Tennessee Titans,330,471,23,32,27.5,No,No,No,No,No,No,No
+2012,Jacksonville Jaguars,255,444,30,29,29.5,No,No,No,No,No,No,No
+2012,Denver Broncos,481,289,2,4,3,Yes,Yes,No,Yes,No,No,No
+2012,San Diego Chargers,350,350,20,16,18,No,No,No,No,No,No,No
+2012,Oakland Raiders,290,443,26,28,27,No,No,No,No,No,No,No
+2012,Kansas City Chiefs,211,425,32,25,28.5,No,No,No,No,No,No,No
+2012,Washington Redskins,436,388,4,22,13,Yes,Yes,No,No,No,No,No
+2012,New York Giants,429,344,6,13,9.5,No,No,No,No,No,No,No
+2012,Dallas Cowboys,376,400,15,24,19.5,No,No,No,No,No,No,No
+2012,Philadelphia Eagles,280,444,29,30,29.5,No,No,No,No,No,No,No
+2012,Green Bay Packers,433,336,5,11,8,Yes,Yes,No,Yes,No,No,No
+2012,Minnesota Vikings,379,348,14,14,14,Yes,No,Yes,No,No,No,No
+2012,Chicago Bears,375,277,16,3,9.5,No,No,No,No,No,No,No
+2012,Detroit Lions,372,437,17,27,22,No,No,No,No,No,No,No
+2012,Atlanta Falcons,419,299,7,5,6,Yes,Yes,No,Yes,Yes,No,No
+2012,Carolina Panthers,357,363,19,18,18.5,No,No,No,No,No,No,No
+2012,New Orleans Saints,461,454,3,31,17,No,No,No,No,No,No,No
+2012,Tampa Bay Buccaneers,389,394,13,23,18,No,No,No,No,No,No,No
+2012,San Francisco 49ers,397,273,11,2,6.5,Yes,Yes,No,Yes,Yes,Yes,No
+2012,Seattle Seahawks,412,245,9,1,5,Yes,No,Yes,Yes,No,No,No
+2012,St. Louis Rams,299,348,25,15,20,No,No,No,No,No,No,No
+2012,Arizona Cardinals,250,357,31,17,24,No,No,No,No,No,No,No
+2013,New England Patriots,444,338,3,10,6.5,Yes,Yes,No,Yes,Yes,No,No
+2013,New York Jets,290,387,29,19,24,No,No,No,No,No,No,No
+2013,Miami Dolphins,317,335,26,8,17,No,No,No,No,No,No,No
+2013,Buffalo Bills,339,388,22,20,21,No,No,No,No,No,No,No
+2013,Cincinnati Bengals,430,305,6,5,5.5,Yes,Yes,No,No,No,No,No
+2013,Pittsburgh Steelers,379,370,16,14,15,No,No,No,No,No,No,No
+2013,Baltimore Ravens,320,352,25,12,18.5,No,No,No,No,No,No,No
+2013,Cleveland Browns,308,406,27,23,25,No,No,No,No,No,No,No
+2013,Indianapolis Colts,391,336,14,9,11.5,Yes,Yes,No,Yes,No,No,No
+2013,Tennessee Titans,362,381,19,16,17.5,No,No,No,No,No,No,No
+2013,Jacksonville Jaguars,247,449,32,28,30,No,No,No,No,No,No,No
+2013,Houston Texans,276,428,31,24,27.5,No,No,No,No,No,No,No
+2013,Denver Broncos,606,399,1,22,11.5,Yes,Yes,No,Yes,Yes,Yes,No
+2013,Kansas City Chiefs,430,305,7,6,6.5,Yes,No,Yes,No,No,No,No
+2013,San Diego Chargers,396,348,12,11,11.5,Yes,No,Yes,Yes,No,No,No
+2013,Oakland Raiders,322,453,24,29,26.5,No,No,No,No,No,No,No
+2013,Philadelphia Eagles,442,382,4,17,10.5,Yes,Yes,No,No,No,No,No
+2013,Dallas Cowboys,439,432,5,26,15.5,No,No,No,No,No,No,No
+2013,New York Giants,294,383,28,18,23,No,No,No,No,No,No,No
+2013,Washington Redskins,334,478,23,30,26.5,No,No,No,No,No,No,No
+2013,Green Bay Packers,417,428,8,25,16.5,Yes,Yes,No,No,No,No,No
+2013,Chicago Bears,445,478,2,31,16.5,No,No,No,No,No,No,No
+2013,Detroit Lions,395,376,13,15,14,No,No,No,No,No,No,No
+2013,Minnesota Vikings,391,480,15,32,23.5,No,No,No,No,No,No,No
+2013,Carolina Panthers,366,241,18,2,10,Yes,Yes,No,Yes,No,No,No
+2013,New Orleans Saints,414,304,10,4,7,Yes,No,Yes,Yes,No,No,No
+2013,Atlanta Falcons,353,443,20,27,23.5,No,No,No,No,No,No,No
+2013,Tampa Bay Buccaneers,288,389,30,21,25.5,No,No,No,No,No,No,No
+2013,Seattle Seahawks,417,231,9,1,5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2013,San Francisco 49ers,406,272,11,3,7,Yes,No,Yes,Yes,Yes,No,No
+2013,Arizona Cardinals,379,324,17,7,12,No,No,No,No,No,No,No
+2013,St. Louis Rams,348,364,21,13,17,No,No,No,No,No,No,No
+2014,New England Patriots,468,313,4,8,6,Yes,Yes,No,Yes,Yes,Yes,Yes
+2014,Buffalo Bills,343,289,18,4,11,No,No,No,No,No,No,No
+2014,Miami Dolphins,388,373,11,20,15.5,No,No,No,No,No,No,No
+2014,New York Jets,283,401,28,24,26,No,No,No,No,No,No,No
+2014,Pittsburgh Steelers,436,368,7,18,12.5,Yes,Yes,No,No,No,No,No
+2014,Cincinnati Bengals,365,344,15,12,13.5,Yes,No,Yes,No,No,No,No
+2014,Baltimore Ravens,409,302,8,6,7,Yes,No,Yes,Yes,No,No,No
+2014,Cleveland Browns,299,337,27,9,18,No,No,No,No,No,No,No
+2014,Indianapolis Colts,458,369,6,19,12.5,Yes,Yes,No,Yes,Yes,No,No
+2014,Houston Texans,372,307,14,7,10.5,No,No,No,No,No,No,No
+2014,Jacksonville Jaguars,249,412,32,26,29,No,No,No,No,No,No,No
+2014,Tennessee Titans,254,438,30,29,29.5,No,No,No,No,No,No,No
+2014,Denver Broncos,482,354,2,16,9,Yes,Yes,No,Yes,No,No,No
+2014,Kansas City Chiefs,353,281,16,2,9,No,No,No,No,No,No,No
+2014,San Diego Chargers,348,348,17,13,15,No,No,No,No,No,No,No
+2014,Oakland Raiders,253,452,31,32,31.5,No,No,No,No,No,No,No
+2014,Dallas Cowboys,467,352,5,15,10,Yes,Yes,No,Yes,No,No,No
+2014,Philadelphia Eagles,474,400,3,22,12.5,No,No,No,No,No,No,No
+2014,New York Giants,380,400,13,23,18,No,No,No,No,No,No,No
+2014,Washington Redskins,301,438,26,30,28,No,No,No,No,No,No,No
+2014,Green Bay Packers,486,348,1,14,7.5,Yes,Yes,No,Yes,Yes,No,No
+2014,Detroit Lions,321,282,22,3,12.5,Yes,No,Yes,No,No,No,No
+2014,Minnesota Vikings,325,343,20,11,15.5,No,No,No,No,No,No,No
+2014,Chicago Bears,319,442,23,31,27,No,No,No,No,No,No,No
+2014,Carolina Panthers,339,374,19,21,20,Yes,Yes,No,Yes,No,No,No
+2014,New Orleans Saints,401,424,9,28,18.5,No,No,No,No,No,No,No
+2014,Atlanta Falcons,381,417,12,27,19.5,No,No,No,No,No,No,No
+2014,Tampa Bay Buccaneers,277,410,29,25,27,No,No,No,No,No,No,No
+2014,Seattle Seahawks,394,254,10,1,5.5,Yes,Yes,No,Yes,Yes,Yes,No
+2014,Arizona Cardinals,310,299,24,5,14.5,Yes,No,Yes,No,No,No,No
+2014,San Francisco 49ers,306,340,25,10,17.5,No,No,No,No,No,No,No
+2014,St. Louis Rams,324,354,21,17,19,No,No,No,No,No,No,No
+2015,New England Patriots,465,315,3,10,6.5,Yes,Yes,No,Yes,Yes,No,No
+2015,New York Jets,387,314,11,9,10,No,No,No,No,No,No,No
+2015,Buffalo Bills,379,359,12,15,13.5,No,No,No,No,No,No,No
+2015,Miami Dolphins,310,389,27,19,23,No,No,No,No,No,No,No
+2015,Cincinnati Bengals,419,279,7,2,4.5,Yes,Yes,No,No,No,No,No
+2015,Pittsburgh Steelers,423,319,4,11,7.5,Yes,No,Yes,Yes,No,No,No
+2015,Baltimore Ravens,328,401,25,24,24.5,No,No,No,No,No,No,No
+2015,Cleveland Browns,278,432,30,29,29.5,No,No,No,No,No,No,No
+2015,Houston Texans,339,313,21,7,14,Yes,Yes,No,No,No,No,No
+2015,Indianapolis Colts,333,408,24,25,24.5,No,No,No,No,No,No,No
+2015,Jacksonville Jaguars,376,448,14,31,22.5,No,No,No,No,No,No,No
+2015,Tennessee Titans,299,423,28,27,27.5,No,No,No,No,No,No,No
+2015,Denver Broncos,355,296,19,4,11.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2015,Kansas City Chiefs,405,287,9,3,6,Yes,No,Yes,Yes,No,No,No
+2015,Oakland Raiders,359,399,17,22,19.5,No,No,No,No,No,No,No
+2015,San Diego Chargers,320,398,26,21,23.5,No,No,No,No,No,No,No
+2015,Washington Redskins,388,379,10,17,13.5,Yes,Yes,No,No,No,No,No
+2015,Philadelphia Eagles,377,430,13,28,20.5,No,No,No,No,No,No,No
+2015,New York Giants,420,442,6,30,18,No,No,No,No,No,No,No
+2015,Dallas Cowboys,275,374,31,16,23.5,No,No,No,No,No,No,No
+2015,Minnesota Vikings,365,302,16,5,10.5,Yes,Yes,No,No,No,No,No
+2015,Green Bay Packers,368,323,15,12,13.5,Yes,No,Yes,Yes,No,No,No
+2015,Detroit Lions,358,400,18,23,20.5,No,No,No,No,No,No,No
+2015,Chicago Bears,335,397,23,20,21.5,No,No,No,No,No,No,No
+2015,Carolina Panthers,500,308,1,6,3.5,Yes,Yes,No,Yes,Yes,Yes,No
+2015,Atlanta Falcons,339,345,22,14,18,No,No,No,No,No,No,No
+2015,New Orleans Saints,408,476,8,32,20,No,No,No,No,No,No,No
+2015,Tampa Bay Buccaneers,342,417,20,26,23,No,No,No,No,No,No,No
+2015,Arizona Cardinals,489,313,2,8,5,Yes,Yes,No,Yes,Yes,No,No
+2015,Seattle Seahawks,423,277,5,1,3,Yes,No,Yes,Yes,No,No,No
+2015,St. Louis Rams,280,330,29,13,21,No,No,No,No,No,No,No
+2015,San Francisco 49ers,238,387,32,18,25,No,No,No,No,No,No,No
+2016,New England Patriots,441,250,3,1,2,Yes,Yes,No,Yes,Yes,Yes,Yes
+2016,Miami Dolphins,363,380,17,18,17.5,Yes,No,Yes,No,No,No,No
+2016,Buffalo Bills,399,378,10,16,13,No,No,No,No,No,No,No
+2016,New York Jets,275,409,30,28,29,No,No,No,No,No,No,No
+2016,Pittsburgh Steelers,399,327,11,10,10.5,Yes,Yes,No,Yes,Yes,No,No
+2016,Baltimore Ravens,343,321,21,9,15,No,No,No,No,No,No,No
+2016,Cincinnati Bengals,325,315,24,8,16,No,No,No,No,No,No,No
+2016,Cleveland Browns,264,452,31,30,30.5,No,No,No,No,No,No,No
+2016,Houston Texans,279,328,28,11,19.5,Yes,Yes,No,Yes,No,No,No
+2016,Tennessee Titans,381,378,14,17,15.5,No,No,No,No,No,No,No
+2016,Indianapolis Colts,411,392,8,22,15,No,No,No,No,No,No,No
+2016,Jacksonville Jaguars,318,400,25,25,25,No,No,No,No,No,No,No
+2016,Kansas City Chiefs,389,311,13,7,10,Yes,Yes,No,Yes,No,No,No
+2016,Oakland Raiders,416,385,7,20,13.5,Yes,No,Yes,No,No,No,No
+2016,Denver Broncos,333,297,22,4,13,No,No,No,No,No,No,No
+2016,San Diego Chargers,410,423,9,29,19,No,No,No,No,No,No,No
+2016,Dallas Cowboys,421,306,5,5,5,Yes,Yes,No,Yes,No,No,No
+2016,New York Giants,310,284,26,2,14,Yes,No,Yes,No,No,No,No
+2016,Washington Redskins,396,383,12,19,15.5,No,No,No,No,No,No,No
+2016,Philadelphia Eagles,367,331,16,12,14,No,No,No,No,No,No,No
+2016,Green Bay Packers,432,388,4,21,12.5,Yes,Yes,No,Yes,Yes,No,No
+2016,Detroit Lions,346,358,20,13,16.5,Yes,No,Yes,No,No,No,No
+2016,Minnesota Vikings,327,307,23,6,14.5,No,No,No,No,No,No,No
+2016,Chicago Bears,279,399,29,24,26.5,No,No,No,No,No,No,No
+2016,Atlanta Falcons,540,406,1,27,14,Yes,Yes,No,Yes,Yes,Yes,No
+2016,Tampa Bay Buccaneers,354,369,18,15,16.5,No,No,No,No,No,No,No
+2016,New Orleans Saints,469,454,2,31,16.5,No,No,No,No,No,No,No
+2016,Carolina Panthers,369,402,15,26,20.5,No,No,No,No,No,No,No
+2016,Seattle Seahawks,354,292,19,3,11,Yes,Yes,No,Yes,No,No,No
+2016,Arizona Cardinals,418,362,6,14,10,No,No,No,No,No,No,No
+2016,Los Angeles Rams,224,394,32,23,27.5,No,No,No,No,No,No,No
+2016,San Francisco 49ers,309,480,27,32,29.5,No,No,No,No,No,No,No
+2017,New England Patriots,458,296,2,5,3.5,Yes,Yes,No,Yes,Yes,Yes,No
+2017,Buffalo Bills,302,359,22,18,20,Yes,No,Yes,No,No,No,No
+2017,Miami Dolphins,281,393,28,29,28.5,No,No,No,No,No,No,No
+2017,New York Jets,298,382,24,22,23,No,No,No,No,No,No,No
+2017,Pittsburgh Steelers,406,308,8,7,7.5,Yes,Yes,No,Yes,No,No,No
+2017,Baltimore Ravens,395,303,9,6,7.5,No,No,No,No,No,No,No
+2017,Cincinnati Bengals,290,349,26,16,21,No,No,No,No,No,No,No
+2017,Cleveland Browns,234,410,32,31,31.5,No,No,No,No,No,No,No
+2017,Jacksonville Jaguars,417,268,5,2,3.5,Yes,Yes,No,Yes,Yes,No,No
+2017,Tennessee Titans,334,356,19,17,18,Yes,No,Yes,Yes,No,No,No
+2017,Indianapolis Colts,263,404,30,30,30,No,No,No,No,No,No,No
+2017,Houston Texans,338,436,17,32,24.5,No,No,No,No,No,No,No
+2017,Kansas City Chiefs,415,339,6,15,10.5,Yes,Yes,No,No,No,No,No
+2017,Los Angeles Chargers,355,272,13,3,8,No,No,No,No,No,No,No
+2017,Oakland Raiders,301,373,23,20,21.5,No,No,No,No,No,No,No
+2017,Denver Broncos,289,382,27,23,25,No,No,No,No,No,No,No
+2017,Philadelphia Eagles,457,295,3,4,3.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2017,Dallas Cowboys,354,332,14,13,13.5,No,No,No,No,No,No,No
+2017,Washington Redskins,342,388,16,27,21.5,No,No,No,No,No,No,No
+2017,New York Giants,246,388,31,28,29.5,No,No,No,No,No,No,No
+2017,Minnesota Vikings,382,252,10,1,5.5,Yes,Yes,No,Yes,Yes,No,No
+2017,Detroit Lions,410,376,7,21,14,No,No,No,No,No,No,No
+2017,Green Bay Packers,320,384,21,26,23.5,No,No,No,No,No,No,No
+2017,Chicago Bears,264,320,29,9,19,No,No,No,No,No,No,No
+2017,New Orleans Saints,448,326,4,10,7,Yes,Yes,No,Yes,No,No,No
+2017,Carolina Panthers,363,327,12,11,11.5,Yes,No,Yes,No,No,No,No
+2017,Atlanta Falcons,353,315,15,8,11.5,Yes,No,Yes,Yes,No,No,No
+2017,Tampa Bay Buccaneers,335,382,18,24,21,No,No,No,No,No,No,No
+2017,Los Angeles Rams,478,329,1,12,6.5,Yes,Yes,No,No,No,No,No
+2017,Seattle Seahawks,366,332,11,14,12.5,No,No,No,No,No,No,No
+2017,Arizona Cardinals,295,361,25,19,22,No,No,No,No,No,No,No
+2017,San Francisco 49ers,331,383,20,25,22.5,No,No,No,No,No,No,No
+2018,New England Patriots,436,325,4,7,5.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2018,Miami Dolphins,319,433,26,27,26.5,No,No,No,No,No,No,No
+2018,Buffalo Bills,269,374,30,18,24,No,No,No,No,No,No,No
+2018,New York Jets,333,441,23,29,26,No,No,No,No,No,No,No
+2018,Baltimore Ravens,389,287,13,2,7.5,Yes,Yes,No,No,No,No,No
+2018,Pittsburgh Steelers,428,360,6,16,11,No,No,No,No,No,No,No
+2018,Cleveland Browns,359,392,20,21,20.5,No,No,No,No,No,No,No
+2018,Cincinnati Bengals,368,455,17,30,23.5,No,No,No,No,No,No,No
+2018,Houston Texans,402,316,11,4,7.5,Yes,Yes,No,No,No,No,No
+2018,Indianapolis Colts,433,344,5,10,7.5,Yes,No,Yes,Yes,No,No,No
+2018,Tennessee Titans,310,303,27,3,15,No,No,No,No,No,No,No
+2018,Jacksonville Jaguars,245,316,31,5,18,No,No,No,No,No,No,No
+2018,Kansas City Chiefs,565,421,1,24,12.5,Yes,Yes,No,Yes,Yes,No,No
+2018,Los Angeles Chargers,428,329,7,8,7.5,Yes,No,Yes,Yes,No,No,No
+2018,Denver Broncos,329,349,24,13,18.5,No,No,No,No,No,No,No
+2018,Oakland Raiders,290,467,28,32,30,No,No,No,No,No,No,No
+2018,Dallas Cowboys,339,324,22,6,14,Yes,Yes,No,Yes,No,No,No
+2018,Philadelphia Eagles,367,348,18,12,15,Yes,No,Yes,Yes,No,No,No
+2018,Washington Redskins,281,359,29,15,22,No,No,No,No,No,No,No
+2018,New York Giants,369,412,16,23,19.5,No,No,No,No,No,No,No
+2018,Chicago Bears,421,283,9,1,5,Yes,Yes,No,No,No,No,No
+2018,Minnesota Vikings,360,341,19,9,14,No,No,No,No,No,No,No
+2018,Green Bay Packers,376,400,14,22,18,No,No,No,No,No,No,No
+2018,Detroit Lions,324,360,25,17,21,No,No,No,No,No,No,No
+2018,New Orleans Saints,504,353,3,14,8.5,Yes,Yes,No,Yes,Yes,No,No
+2018,Atlanta Falcons,414,423,10,25,17.5,No,No,No,No,No,No,No
+2018,Carolina Panthers,376,382,15,19,17,No,No,No,No,No,No,No
+2018,Tampa Bay Buccaneers,396,464,12,31,21.5,No,No,No,No,No,No,No
+2018,Los Angeles Rams,527,384,2,20,11,Yes,Yes,No,Yes,Yes,Yes,No
+2018,Seattle Seahawks,428,347,8,11,9.5,Yes,No,Yes,No,No,No,No
+2018,San Francisco 49ers,342,435,21,28,24.5,No,No,No,No,No,No,No
+2018,Arizona Cardinals,225,425,32,26,29,No,No,No,No,No,No,No
+2019,New England Patriots,420,225,7,1,4,Yes,Yes,No,No,No,No,No
+2019,Buffalo Bills,314,259,23,2,12.5,Yes,No,Yes,No,No,No,No
+2019,New York Jets,276,359,31,16,23.5,No,No,No,No,No,No,No
+2019,Miami Dolphins,306,494,25,32,28.5,No,No,No,No,No,No,No
+2019,Baltimore Ravens,531,282,1,3,2,Yes,Yes,No,Yes,No,No,No
+2019,Pittsburgh Steelers,289,303,27,5,16,No,No,No,No,No,No,No
+2019,Cleveland Browns,335,393,22,20,21,No,No,No,No,No,No,No
+2019,Cincinnati Bengals,279,420,30,25,27.5,No,No,No,No,No,No,No
+2019,Houston Texans,378,385,14,19,16.5,Yes,Yes,No,Yes,No,No,No
+2019,Tennessee Titans,402,331,10,12,11,Yes,No,Yes,Yes,Yes,No,No
+2019,Indianapolis Colts,361,373,16,18,17,No,No,No,No,No,No,No
+2019,Jacksonville Jaguars,300,397,26,21,23.5,No,No,No,No,No,No,No
+2019,Kansas City Chiefs,451,308,5,7,6,Yes,Yes,No,Yes,Yes,Yes,Yes
+2019,Denver Broncos,282,316,28,10,19,No,No,No,No,No,No,No
+2019,Oakland Raiders,313,419,24,24,24,No,No,No,No,No,No,No
+2019,Los Angeles Chargers,337,345,21,14,17.5,No,No,No,No,No,No,No
+2019,Philadelphia Eagles,385,354,12,15,13.5,Yes,Yes,No,No,No,No,No
+2019,Dallas Cowboys,434,321,6,11,8.5,No,No,No,No,No,No,No
+2019,New York Giants,341,451,18,30,24,No,No,No,No,No,No,No
+2019,Washington Redskins,266,435,32,27,29.5,No,No,No,No,No,No,No
+2019,Green Bay Packers,376,313,15,9,12,Yes,Yes,No,Yes,Yes,No,No
+2019,Minnesota Vikings,407,303,8,6,7,Yes,No,Yes,Yes,No,No,No
+2019,Chicago Bears,280,298,29,4,16.5,No,No,No,No,No,No,No
+2019,Detroit Lions,341,423,19,26,22.5,No,No,No,No,No,No,No
+2019,New Orleans Saints,458,341,3,13,8,Yes,Yes,No,No,No,No,No
+2019,Atlanta Falcons,381,399,13,23,18,No,No,No,No,No,No,No
+2019,Tampa Bay Buccaneers,458,449,4,29,16.5,No,No,No,No,No,No,No
+2019,Carolina Panthers,340,470,20,31,25.5,No,No,No,No,No,No,No
+2019,San Francisco 49ers,479,310,2,8,5,Yes,Yes,No,Yes,Yes,Yes,No
+2019,Seattle Seahawks,405,398,9,22,15.5,Yes,No,Yes,Yes,No,No,No
+2019,Los Angeles Rams,394,364,11,17,14,No,No,No,No,No,No,No
+2019,Arizona Cardinals,361,442,17,28,22.5,No,No,No,No,No,No,No
+2020,Buffalo Bills,501,375,2,16,9,Yes,Yes,No,Yes,Yes,No,No
+2020,Miami Dolphins,404,338,15,6,10.5,No,No,No,No,No,No,No
+2020,New England Patriots,326,353,27,7,17,No,No,No,No,No,No,No
+2020,New York Jets,243,457,32,26,29,No,No,No,No,No,No,No
+2020,Pittsburgh Steelers,416,312,12,3,7.5,Yes,Yes,No,No,No,No,No
+2020,Baltimore Ravens,468,303,7,2,4.5,Yes,No,Yes,Yes,No,No,No
+2020,Cleveland Browns,408,419,14,21,17.5,Yes,No,Yes,Yes,No,No,No
+2020,Cincinnati Bengals,311,424,29,22,25.5,No,No,No,No,No,No,No
+2020,Tennessee Titans,491,439,4,24,14,Yes,Yes,No,No,No,No,No
+2020,Indianapolis Colts,451,362,9,10,9.5,Yes,No,Yes,No,No,No,No
+2020,Houston Texans,384,464,18,27,22.5,No,No,No,No,No,No,No
+2020,Jacksonville Jaguars,306,492,30,31,30.5,No,No,No,No,No,No,No
+2020,Kansas City Chiefs,473,362,6,11,8.5,Yes,Yes,No,Yes,Yes,Yes,No
+2020,Las Vegas Raiders,434,478,10,30,20,No,No,No,No,No,No,No
+2020,Los Angeles Chargers,384,426,19,23,21,No,No,No,No,No,No,No
+2020,Denver Broncos,323,446,28,25,26.5,No,No,No,No,No,No,No
+2020,Washington Football Team,335,329,25,4,14.5,Yes,Yes,No,No,No,No,No
+2020,New York Giants,280,357,31,9,20,No,No,No,No,No,No,No
+2020,Dallas Cowboys,395,473,17,28,22.5,No,No,No,No,No,No,No
+2020,Philadelphia Eagles,334,418,26,20,23,No,No,No,No,No,No,No
+2020,Green Bay Packers,509,369,1,13,7,Yes,Yes,No,Yes,Yes,No,No
+2020,Chicago Bears,372,370,22,14,18,Yes,No,Yes,No,No,No,No
+2020,Minnesota Vikings,430,475,11,29,20,No,No,No,No,No,No,No
+2020,Detroit Lions,377,519,20,32,26,No,No,No,No,No,No,No
+2020,New Orleans Saints,482,337,5,5,5,Yes,Yes,No,Yes,No,No,No
+2020,Tampa Bay Buccaneers,492,355,3,8,5.5,Yes,No,Yes,Yes,Yes,Yes,Yes
+2020,Carolina Panthers,350,402,24,18,21,No,No,No,No,No,No,No
+2020,Atlanta Falcons,396,414,16,19,17.5,No,No,No,No,No,No,No
+2020,Seattle Seahawks,459,371,8,15,11.5,Yes,Yes,No,No,No,No,No
+2020,Los Angeles Rams,372,296,23,1,12,Yes,No,Yes,Yes,No,No,No
+2020,Arizona Cardinals,410,367,13,12,12.5,No,No,No,No,No,No,No
+2020,San Francisco 49ers,376,390,21,17,19,No,No,No,No,No,No,No
+2021,Buffalo Bills,483,289,3,1,2,Yes,Yes,No,Yes,No,No,No
+2021,New England Patriots,462,303,6,2,4,Yes,No,Yes,No,No,No,No
+2021,Miami Dolphins,341,373,22,16,19,No,No,No,No,No,No,No
+2021,New York Jets,310,504,28,32,30,No,No,No,No,No,No,No
+2021,Cincinnati Bengals,460,376,7,17,12,Yes,Yes,No,Yes,Yes,Yes,No
+2021,Pittsburgh Steelers,343,398,21,20,20.5,Yes,No,Yes,No,No,No,No
+2021,Cleveland Browns,349,371,20,13,16.5,No,No,No,No,No,No,No
+2021,Baltimore Ravens,387,392,17,19,18,No,No,No,No,No,No,No
+2021,Tennessee Titans,419,354,15,6,10.5,Yes,Yes,No,Yes,No,No,No
+2021,Indianapolis Colts,451,365,9,9,9,No,No,No,No,No,No,No
+2021,Houston Texans,280,452,30,27,28.5,No,No,No,No,No,No,No
+2021,Jacksonville Jaguars,253,457,32,28,30,No,No,No,No,No,No,No
+2021,Kansas City Chiefs,480,364,4,8,6,Yes,Yes,No,Yes,Yes,No,No
+2021,Las Vegas Raiders,374,439,18,26,22,Yes,No,Yes,No,No,No,No
+2021,Los Angeles Chargers,474,459,5,29,17,No,No,No,No,No,No,No
+2021,Denver Broncos,335,322,23,3,13,No,No,No,No,No,No,No
+2021,Dallas Cowboys,530,358,1,7,4,Yes,Yes,No,No,No,No,No
+2021,Philadelphia Eagles,444,385,12,18,15,Yes,No,Yes,No,No,No,No
+2021,Washington Football Team,335,434,24,25,24.5,No,No,No,No,No,No,No
+2021,New York Giants,258,416,31,23,27,No,No,No,No,No,No,No
+2021,Green Bay Packers,450,371,10,14,12,Yes,Yes,No,Yes,No,No,No
+2021,Minnesota Vikings,425,426,14,24,19,No,No,No,No,No,No,No
+2021,Chicago Bears,311,407,27,22,24.5,No,No,No,No,No,No,No
+2021,Detroit Lions,325,467,25,31,28,No,No,No,No,No,No,No
+2021,Tampa Bay Buccaneers,511,353,2,5,3.5,Yes,Yes,No,Yes,No,No,No
+2021,New Orleans Saints,364,335,19,4,11.5,No,No,No,No,No,No,No
+2021,Atlanta Falcons,313,459,26,30,28,No,No,No,No,No,No,No
+2021,Carolina Panthers,304,404,29,21,25,No,No,No,No,No,No,No
+2021,Los Angeles Rams,460,372,8,15,11.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2021,Arizona Cardinals,449,366,11,11,11,Yes,No,Yes,No,No,No,No
+2021,San Francisco 49ers,427,365,13,10,11.5,Yes,No,Yes,Yes,Yes,No,No
+2021,Seattle Seahawks,395,366,16,12,14,No,No,No,No,No,No,No
+2022,Buffalo Bills,455,286,4,2,3,Yes,Yes,No,Yes,No,No,No
+2022,Miami Dolphins,397,399,11,24,17.5,Yes,No,Yes,No,No,No,No
+2022,New England Patriots,364,347,17,11,14,No,No,No,No,No,No,No
+2022,New York Jets,296,316,29,4,16.5,No,No,No,No,No,No,No
+2022,Cincinnati Bengals,418,322,8,5,6.5,Yes,Yes,No,Yes,Yes,No,No
+2022,Baltimore Ravens,350,315,19,3,11,Yes,No,Yes,No,No,No,No
+2022,Pittsburgh Steelers,308,346,26,10,18,No,No,No,No,No,No,No
+2022,Cleveland Browns,361,381,18,20,19,No,No,No,No,No,No,No
+2022,Jacksonville Jaguars,404,350,10,12,11,Yes,Yes,No,Yes,No,No,No
+2022,Tennessee Titans,298,359,28,14,21,No,No,No,No,No,No,No
+2022,Indianapolis Colts,289,427,30,28,29,No,No,No,No,No,No,No
+2022,Houston Texans,289,420,31,27,29,No,No,No,No,No,No,No
+2022,Kansas City Chiefs,496,369,1,16,8.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2022,Los Angeles Chargers,391,384,13,21,17,Yes,No,Yes,No,No,No,No
+2022,Las Vegas Raiders,395,418,12,26,19,No,No,No,No,No,No,No
+2022,Denver Broncos,287,359,32,15,23.5,No,No,No,No,No,No,No
+2022,Philadelphia Eagles,477,344,2,8,5,Yes,Yes,No,Yes,Yes,Yes,No
+2022,Dallas Cowboys,467,342,3,6,4.5,Yes,No,Yes,Yes,No,No,No
+2022,New York Giants,365,371,15,17,16,Yes,No,Yes,Yes,No,No,No
+2022,Washington Commanders,321,343,24,7,15.5,No,No,No,No,No,No,No
+2022,Minnesota Vikings,424,427,7,29,18,Yes,Yes,No,No,No,No,No
+2022,Detroit Lions,453,427,5,30,17.5,No,No,No,No,No,No,No
+2022,Green Bay Packers,370,371,14,18,16,No,No,No,No,No,No,No
+2022,Chicago Bears,326,463,23,32,27.5,No,No,No,No,No,No,No
+2022,Tampa Bay Buccaneers,313,358,25,13,19,Yes,Yes,No,No,No,No,No
+2022,Carolina Panthers,347,374,20,19,19.5,No,No,No,No,No,No,No
+2022,New Orleans Saints,330,345,22,9,15.5,No,No,No,No,No,No,No
+2022,Atlanta Falcons,365,386,16,23,19.5,No,No,No,No,No,No,No
+2022,San Francisco 49ers,450,277,6,1,3.5,Yes,Yes,No,Yes,Yes,No,No
+2022,Seattle Seahawks,407,401,9,25,17,Yes,No,Yes,No,No,No,No
+2022,Los Angeles Rams,307,384,27,22,24.5,No,No,No,No,No,No,No
+2022,Arizona Cardinals,340,449,21,31,26,No,No,No,No,No,No,No
+2023,Buffalo Bills,451,311,6,4,5,Yes,Yes,No,Yes,No,No,No
+2023,Miami Dolphins,496,391,2,22,12,Yes,No,Yes,No,No,No,No
+2023,New York Jets,268,355,29,12,20.5,No,No,No,No,No,No,No
+2023,New England Patriots,236,366,31,15,23,No,No,No,No,No,No,No
+2023,Baltimore Ravens,483,280,4,1,2.5,Yes,Yes,No,Yes,Yes,No,No
+2023,Cleveland Browns,396,362,10,13,11.5,Yes,No,Yes,No,No,No,No
+2023,Pittsburgh Steelers,304,324,28,6,17,Yes,No,Yes,No,No,No,No
+2023,Cincinnati Bengals,366,384,16,21,18.5,No,No,No,No,No,No,No
+2023,Houston Texans,377,353,13,11,12,Yes,Yes,No,Yes,No,No,No
+2023,Jacksonville Jaguars,377,371,14,17,15.5,No,No,No,No,No,No,No
+2023,Indianapolis Colts,396,415,11,28,19.5,No,No,No,No,No,No,No
+2023,Tennessee Titans,305,367,27,16,21.5,No,No,No,No,No,No,No
+2023,Kansas City Chiefs,371,294,15,2,8.5,Yes,Yes,No,Yes,Yes,Yes,Yes
+2023,Las Vegas Raiders,332,331,23,9,16,No,No,No,No,No,No,No
+2023,Denver Broncos,357,413,19,27,23,No,No,No,No,No,No,No
+2023,Los Angeles Chargers,346,398,21,24,22.5,No,No,No,No,No,No,No
+2023,Dallas Cowboys,509,315,1,5,3,Yes,Yes,No,No,No,No,No
+2023,Philadelphia Eagles,433,428,7,30,18.5,Yes,No,Yes,No,No,No,No
+2023,New York Giants,266,407,30,26,28,No,No,No,No,No,No,No
+2023,Washington Commanders,329,518,25,32,28.5,No,No,No,No,No,No,No
+2023,Detroit Lions,461,395,5,23,14,Yes,Yes,No,Yes,Yes,No,No
+2023,Green Bay Packers,383,350,12,10,11,Yes,No,Yes,Yes,No,No,No
+2023,Minnesota Vikings,344,362,22,14,18,No,No,No,No,No,No,No
+2023,Chicago Bears,360,379,18,20,19,No,No,No,No,No,No,No
+2023,Tampa Bay Buccaneers,348,325,20,7,13.5,Yes,Yes,No,Yes,No,No,No
+2023,New Orleans Saints,402,327,9,8,8.5,No,No,No,No,No,No,No
+2023,Atlanta Falcons,321,373,26,18,22,No,No,No,No,No,No,No
+2023,Carolina Panthers,236,416,32,29,30.5,No,No,No,No,No,No,No
+2023,San Francisco 49ers,491,298,3,3,3,Yes,Yes,No,Yes,Yes,Yes,No
+2023,Los Angeles Rams,404,377,8,19,13.5,Yes,No,Yes,No,No,No,No
+2023,Seattle Seahawks,364,402,17,25,21,No,No,No,No,No,No,No
+2023,Arizona Cardinals,330,455,24,31,27.5,No,No,No,No,No,No,No

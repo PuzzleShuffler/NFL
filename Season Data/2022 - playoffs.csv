@@ -1,0 +1,14 @@
+Week,Day,Date,Winner/tie,,Loser/tie,,Pts,Pts
+WildCard,Sat,2023-01-14,Jacksonville Jaguars,,Los Angeles Chargers,boxscore,31,30
+WildCard,Sat,2023-01-14,San Francisco 49ers,,Seattle Seahawks,boxscore,41,23
+WildCard,Sun,2023-01-15,Buffalo Bills,,Miami Dolphins,boxscore,34,31
+WildCard,Sun,2023-01-15,Cincinnati Bengals,,Baltimore Ravens,boxscore,24,17
+WildCard,Sun,2023-01-15,New York Giants,@,Minnesota Vikings,boxscore,31,24
+WildCard,Mon,2023-01-16,Dallas Cowboys,@,Tampa Bay Buccaneers,boxscore,31,14
+Division,Sat,2023-01-21,Kansas City Chiefs,,Jacksonville Jaguars,boxscore,27,20
+Division,Sat,2023-01-21,Philadelphia Eagles,,New York Giants,boxscore,38,7
+Division,Sun,2023-01-22,Cincinnati Bengals,@,Buffalo Bills,boxscore,27,10
+Division,Sun,2023-01-22,San Francisco 49ers,,Dallas Cowboys,boxscore,19,12
+ConfChamp,Sun,2023-01-29,Kansas City Chiefs,,Cincinnati Bengals,boxscore,23,20
+ConfChamp,Sun,2023-01-29,Philadelphia Eagles,,San Francisco 49ers,boxscore,31,7
+SuperBowl,Sun,2023-02-12,Kansas City Chiefs,N,Philadelphia Eagles,boxscore,38,35

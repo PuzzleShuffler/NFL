@@ -1,0 +1,12 @@
+Week,Day,Date,Winner/tie,,Loser/tie,,Pts,Pts
+WildCard,Sat,2015-01-03,Carolina Panthers,,Arizona Cardinals,boxscore,27,16
+WildCard,Sat,2015-01-03,Baltimore Ravens,@,Pittsburgh Steelers,boxscore,30,17
+WildCard,Sun,2015-01-04,Indianapolis Colts,,Cincinnati Bengals,boxscore,26,10
+WildCard,Sun,2015-01-04,Dallas Cowboys,,Detroit Lions,boxscore,24,20
+Division,Sat,2015-01-10,New England Patriots,,Baltimore Ravens,boxscore,35,31
+Division,Sat,2015-01-10,Seattle Seahawks,,Carolina Panthers,boxscore,31,17
+Division,Sun,2015-01-11,Green Bay Packers,,Dallas Cowboys,boxscore,26,21
+Division,Sun,2015-01-11,Indianapolis Colts,@,Denver Broncos,boxscore,24,13
+ConfChamp,Sun,2015-01-18,New England Patriots,,Indianapolis Colts,boxscore,45,7
+ConfChamp,Sun,2015-01-18,Seattle Seahawks,,Green Bay Packers,boxscore,28,22
+SuperBowl,Sun,2015-02-01,New England Patriots,N,Seattle Seahawks,boxscore,28,24
