@@ -6,4 +6,4 @@ All of the data is from [Pro Football Reference](https://www.pro-football-refere
 
 The finished report can be seen from `NFL.ipynb`.
 
-An accompanying `Tableau workbook` in within `NFL.twbx` and helps visualize this better.
+An accompanying `Tableau workbook` in within `NFL.twbx` and helps visualize the data.
